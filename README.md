@@ -7,9 +7,11 @@ A nearly fully 3D-printed, 4WD RC drift car. 1:28 scale, fits 90mm (M) wheelbase
 Note: Some parts in this design are quite challenging to print - make sure you have a well-calibrated printer before attempting.
 
 Features:
-- Indepdendent sliding suspension
+- Fully indepdendent sliding suspension
 - 4WD drivetrain with printed U-joints (no differentials)
 - Mid-mounted battery and motor - approx 50-50 weight distribution
+- Parallel steering geometry for drifting
+- Uses common M3 fasteners, locknuts everywhere
 - TPU printed tires
 
 ## Non-printed Parts
