@@ -20,14 +20,14 @@ Features:
 
 |  Part | Quantity   | Notes  |
 |---|---|---|
-|  M3x10mm button head screw | 10  |   |
+|  M3x10mm button head screw | 8  |   |
 |  M3x8mm button head screw | 7 |   |
 |  M3x12mm button head screw | 1  |   |
 |  M3x18mm button head screw | 1  |   |
-|  M3 lock nut | 19 |   |
+|  M3 lock nut | 17 |   |
 | MR105 bearing | 8 |   |
 | 130 size brushed motor, 2s compatible | 1 |   |
-| GH-S37D 3.7g servo | 1 | May replace with Power HD 1600A servo in future versions to improve steering |
+| GH-S37D 3.7g servo | 1 |  |
 | Compression spring, ~4mm OD, ~4mm length | 4 | Softer springs are better.  Springs from multicolor retractable pens work well here when cut to length. Ordinary pen springs are too stiff. |
 | Venom Fly 300mah 2S battery | 1 | |
 | Small brushed ESC, 2S compatible | 1 |
