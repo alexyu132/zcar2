@@ -1,10 +1,13 @@
 # zcar2
 
 #### ⚠️ Still under active development. Parts and documentation may change! 
+![zcar2 image](image/zcar2.png)
 
 A nearly fully 3D-printed, 4WD RC drift car. 1:28 scale, fits 90mm (M) wheelbase MINI-Z shells.
 
 Video: https://youtu.be/90DoZpYbfy4
+
+
 
 Note: Some parts in this design are quite challenging to print - make sure you have a well-calibrated printer before attempting.
 
