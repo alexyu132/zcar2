@@ -6,6 +6,7 @@
 A nearly fully 3D-printed, 4WD RC drift car. 1:28 scale, fits 90mm (M) wheelbase MINI-Z shells.
 
 Test drive: https://youtu.be/90DoZpYbfy4
+
 U-joint closeup: https://youtu.be/g_EzM2HMQvg
 
 
